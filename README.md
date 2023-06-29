@@ -9,5 +9,5 @@ The "repo art" was generated using a checkpoint called (ayonimixv6)[https://civi
 
 |   |   |
 |---|---|
-| ![Image 1](https://github.com/shaankhosla/blob/main/imgs/1.png) | ![Image 2](https://github.com/shaankhosla/blob/main/imgs/2.png) |
-| ![Image 3](https://github.com/shaankhosla/blob/main/imgs/3.png) | ![Image 4](https://github.com/shaankhosla/blob/main/imgs/4.png) |
+| ![Image 1](https://github.com/shaankhosla/optimizingllms/blob/main/imgs/1.png) | ![Image 2](https://github.com/shaankhosla/optimizingllms/blob/main/imgs/2.png) |
+| ![Image 3](https://github.com/shaankhosla/optimizingllms/blob/main/imgs/3.png) | ![Image 4](https://github.com/shaankhosla/optimizingllms/blob/main/imgs/4.png) |
