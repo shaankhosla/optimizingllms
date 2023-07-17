@@ -1,7 +1,14 @@
-from transformers import pipeline
+# this notebook uses deepspeed to run inference on multiple GPUs
+# It will automatically partition the model as necessary, inject
+# compatible high performance kernels into your model and manage
+# the inter-gpu communication.
+# run this with `deepspeed --num_gpus 2 deepspeed_t5_inference.py`
+
+import os
+
 import deepspeed
 import torch
-import os
+from transformers import pipeline
 from transformers.models.t5.modeling_t5 import T5Block
 
 local_rank = int(os.getenv("LOCAL_RANK", "0"))
